@@ -1,6 +1,5 @@
 package com.snowalker;
 
-import com.snowalker.executor.rmqtest.MyRMQReveiver;
 import com.snowalker.lock.redisson.config.EnableRedissonLock;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
